@@ -1,0 +1,12 @@
+# What, am I gonna remove and replace the jar every time I wanna
+# enable/disable my snow bombs? i'm no broke bitch
+enable: true
+
+# Float determining the power of the explosion. According to the API, 4 is TNT.
+explosion-power: 3
+
+# Whether or not the explosion should set fire to surrounding blocks
+set-fire: false
+
+# Whether or not the explosion should actually break blocks
+break-blocks: false

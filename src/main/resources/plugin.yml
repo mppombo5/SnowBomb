@@ -1,0 +1,5 @@
+name: SnowBomb
+version: '${project.version}'
+main: me.macitron3000.snowbomb.SnowBomb
+api-version: 1.18
+description: Snowball go boom
